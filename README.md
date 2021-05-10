@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET Core 5.0, DevSecOps & Microservices**
 
-- 💬 Ask me about **C# (+ .NET Core)**
+- 💬 Ask me about **C# (+ .NET Core) & Java**
 
 - 📫 How to reach me **sro@samrobben.nl**
 
